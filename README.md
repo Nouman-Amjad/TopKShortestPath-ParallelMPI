@@ -109,8 +109,8 @@ This project tackles the **Top K Shortest Path Problem**, a challenging issue in
 ## Acknowledgments
 
 This project was developed as part of the **Parallel and Distributed Computing** course by:
-- **Muhammad Nouman Amjad (21I-0853, Section E)**
-- **Moeez Muslim (21I-0490, Section E)**
+- **Muhammad Nouman Amjad**
+- **Moeez Muslim**
 
 Special thanks to the faculty for their guidance.
 
